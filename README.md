@@ -23,7 +23,7 @@ Here, the user filter the UFO data by State. As you can see, the only UFO data i
 
 ![Filter_by_State](filter.png)
 
-Here, the user has used two filters, Wisconsin and the data 1/12/2010
+Here, the user has used two filters, Wisconsin and the date 1/12/2010
 
 ![Filter_by_State](multi_filter.png)
 
